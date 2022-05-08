@@ -1,0 +1,9 @@
+.contenedorCard {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
